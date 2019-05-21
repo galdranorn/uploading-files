@@ -1,0 +1,10 @@
+{
+    "name": "uploading-files",
+    "description": "First bigger adventure with Node.js and NPM - uploading files app",
+    "keywords": [
+      "Node.js",
+      "Uploading",
+      "Nodemon"
+    ],
+    "repository": "https://github.com/galdranorn/uploading-files/"
+  }
