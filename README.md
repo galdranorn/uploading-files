@@ -1,6 +1,6 @@
 # uploading-files
 First bigger adventure with Node.js and NPM. App for uploading files: using modules, event emitters, file system, http server, nodemon.
-**You can the live [here](https://galdranorn.github.io/kanban/).**
+**You can the live on Heroku [here](https://nodejs-uploading-file.herokuapp.com/).**
 
 ## Technologies used
   - HTML
